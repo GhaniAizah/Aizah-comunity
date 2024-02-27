@@ -211,11 +211,11 @@ nav a:hover
 }
 .photos {
     display: flex;
-    margin:20px;
+    margin: 20px;
 }
 .photo img {
     width: 90%;
-    height:80%;
+    height: 80%;
     transition: all 2s ease;
 }
     .photo img:hover {
