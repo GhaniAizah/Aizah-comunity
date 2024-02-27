@@ -214,7 +214,8 @@ nav a:hover
     margin: 20px;
 }
 .photo img {
-    
+    width: 20%;
+    height: 10%;
     transition: all 2s ease;
 }
     .photo img:hover {
