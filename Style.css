@@ -29,7 +29,7 @@ header{
     cursor:pointer;
 }
 /*-------------------------------------------------------------------------------*/
-.left-section img{
+.left-section .img{
     width:100px;
     padding-left:15px;
 }
